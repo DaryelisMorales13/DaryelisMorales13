@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Daryelis Morales - Student, Researcher, Artistic Gymnast"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA3&height=260&section=header&text=Daryelis%20Morales&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Student%20%7C%20Researcher%20%7C%20Artistic%20Gymnast&descAlignY=58&descSize=20" width="100%" alt="Daryelis Morales"/>
 </p>
 
 <p align="center">
@@ -85,3 +85,7 @@
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <p align="center">Hecho con 💖, curiosidad y mucha disciplina · Panamá 🇵🇦</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA3&height=120&section=footer" width="100%" alt=""/>
+</p>
